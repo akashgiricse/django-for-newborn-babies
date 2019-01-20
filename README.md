@@ -40,7 +40,7 @@ A Django guide for those who are not sure where to start.
   - #### Learn Git & GitHub basics
     After learning basic command line, you need to learn version-control system. Git is one of the most popular version-         control-system. It is used for tracking changes in computer files and coordinating work on those files among multiple         people.<br>
     Here are some suggested resources
-      - [Git Tutorial for Beginners: Command-Line Fundamentals(video](https://www.youtube.com/watch?v=HVsySz-h9r4)
+      - [Git Tutorial for Beginners: Command-Line Fundamentals(video)](https://www.youtube.com/watch?v=HVsySz-h9r4)
       - [Git & GitHub Crash Course For Beginners (video)](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
       - If you have enough time
         - [Git & GitHub Tutorials Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
