@@ -85,6 +85,6 @@ A Django guide for those who are not sure where to start.
    
 <a name="contribute"></a>
 ## Contribution
-Any kind of contribution to make this guide better is most welcome. If you want to contribute, please follow this guideline.<br>
+Any kind of contribution to make this guide better is most welcome. If you want to contribute, please [follow this guideline](https://github.com/akashgiricse/django-for-newborn-babies/blob/master/CODE_OF_CONDUCT.md).<br>
 Want to say thank you? Give a :star: <br>
 Crafted with :heart: by [Akash Giri](https://akashgiricse.github.io/)
