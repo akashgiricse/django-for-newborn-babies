@@ -15,7 +15,7 @@ A Django guide for those who are not sure where to start.
     - Django Polls tutorial
     - Django full course for beginners 
     - What's next? Resources and guide
-  - [Contributions guidelines](#contribute)
+  - [Contributions](#contribute)
  
 <a name="introduction"></a>
 ## What is it? An introduction
@@ -84,7 +84,7 @@ A Django guide for those who are not sure where to start.
    
    
 <a name="contribute"></a>
-## Contribution guideline
-Any kind of contribution to make this guide better is most welcome. If you want to contribute, please follow this guideline.
-  
-  
+## Contribution
+Any kind of contribution to make this guide better is most welcome. If you want to contribute, please follow this guideline.<br>
+Want to say thank you? Give a :star: <br>
+Crafted with :heart: by [Akash Giri](https://akashgiricse.github.io/)
