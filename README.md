@@ -84,7 +84,7 @@ A Django guide for those who are not sure where to start.
    
    
 <a name="contribute"></a>
-## Contributions guidelines
+## Contribution guideline
 Any kind of contribution to make this guide better is most welcome. If you want to contribute, please follow this guideline.
   
   
