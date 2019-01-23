@@ -10,6 +10,7 @@ A Django guide for those who are not sure where to start.
     - Git & GitHub basics
     - Learn Markdown
     - Python basics
+    - Debugging
   - [Learning Django](#django)
     - Django Girls tutorial
     - Django Polls tutorial
@@ -58,6 +59,11 @@ A Django guide for those who are not sure where to start.
     Here are some suggested resources
     - [Python Programming For Beginners: crash course (video)](https://www.youtube.com/watch?v=JJmcL1N2KQs)
     - [Python OOP Tutorials - Working with Classes (video)](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
+
+  - #### Debugging
+    It's common to get stuck due to some bug etc. at some point while you're developing your project. So knowing how to debug your code may be a lot helpful and will save tons of time. <br>
+    Here are some suggested resource for debugging
+    - [5 Debugging Tips Every Developer Should Know](https://www.youtube.com/watch?v=K6WGRBhacq8)
   
     
 <a name="django"></a>
