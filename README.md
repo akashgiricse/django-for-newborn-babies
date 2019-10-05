@@ -1,7 +1,7 @@
 # Django for newborn babies
 **Of course not for newborn babies** <br>
 A Django guide for those who are not sure where to start.
-> Disclaimer: This guide is designed for beginners. It does not ensure that this is the best guide to learn Django. If you want to make this guide better, I would love to see you on the contributor's list. :)
+> Disclaimer: This guide is designed for complete beginners. If you are already a Django developer and want to make this guide better, I would love to see you on the contributor's list. :)
 
 ## Table of contents
   - [What is it? An introduction](#introduction)
