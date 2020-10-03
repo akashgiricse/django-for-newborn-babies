@@ -22,15 +22,15 @@ A Django guide for those who are not sure where to start.
 ## What is it? An introduction
   If you are new to web development and want to learn Django framework, then this guide is for you.<br>
   It's a common problem for beginners to wonder what to do and where to start before learning new technology. So to save time on searching and wondering, this guide will help you learn Django framework. <br>
-  **Please note** "This guide is for absolute beginners." <br>
+  **Please note** "This guide is for absolute beginners". <br>
 
 
 <a name="before-django"></a>
 ## Things to learn before Django
-  Instead of directly jumping into Django development, you need to have some prerequisite knowledge. Here are some of my suggestions
+  Instead of directly jumping into Django development, it is recommended to have some prerequisite knowledge. Here are some of my suggestions
 
   - #### How to use command line (basics)
-    Learning command line will help you a lot. You'll see that in most of the Django tutorials, everyone uses the command line. If   you don't know command line, it will be too difficult to follow along with those tutorials.<br>
+    Getting comfortable with command line interface will come a long way. You'll see that in most of the Django tutorials, command line is used. If you are not familiar, it might be a little difficult to follow along with those tutorials.<br>
     Here are some suggested resources
       - [Linux Tutorial - Basic Command Line (video)](https://www.youtube.com/watch?v=cBokz0LTizk)
       - [Beginner's Guide to the Bash Terminal (video)](https://www.youtube.com/watch?v=oxuRxtrO2Ag)<br>
@@ -39,7 +39,7 @@ A Django guide for those who are not sure where to start.
       
       
   - #### Learn Git & GitHub basics
-    After learning basic command line, you need to learn the version-control system. Git is one of the most popular version-control-system. It is used for tracking changes in computer files and coordinating work on those files among multiple         people.<br>
+    After learning basic command line, you should learn the version-control system. Git is one of the most popular version-control-system. It is used for tracking changes in computer files and coordinating work on those files among multiple people.<br>
     Here are some suggested resources
       - [Git Tutorial for Beginners: Command-Line Fundamentals(video)](https://www.youtube.com/watch?v=HVsySz-h9r4)
       - [Git & GitHub Crash Course For Beginners (video)](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
@@ -48,20 +48,20 @@ A Django guide for those who are not sure where to start.
         
         
   - #### Learn Markdown
-    Markdown is a lightweight markup language with plain text formatting syntax. It will help you document your project and other stuff. For example, this guide is written in markdown. <br>
+    Markdown is a lightweight markup language with plain text formatting syntax. It will help you document your project and other stuff. For example, this guide is written in markdown. This is not essentail, but good-to-have knowledge. <br>
     Here are some suggested resources
       - [Markdown Crash Course (video)](https://www.youtube.com/watch?v=HUBNt18RFbo)
       - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
       
       
   - #### Python basics
-    Django framework is built on top of Python programming language. Hence knowledge of Python basics is a must. If you don't know Python programming language, it will be difficult for you to learn Django framework. <br>
+    Django framework is built on top of Python programming language. Hence knowledge of Python basics is a must. If you are a newborn baby when it comes to Python programming language, it will be difficult for you to learn Django framework. <br>
     Here are some suggested resources
     - [Python Programming For Beginners: crash course (video)](https://www.youtube.com/watch?v=JJmcL1N2KQs)
     - [Python OOP Tutorials - Working with Classes (video)](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 
   - #### Debugging
-    It's common to get stuck due to some bug etc. at some point while you're developing your project. So knowing how to debug your code may be a lot helpful and will save tons of time. <br>
+    It's common to get stuck due to some bug etc. at some point while you're developing your project. Knowing how to debug your code is a great meta skill that will come to your rescue more often than you anticipate. <br>
     Here are some suggested resource for debugging
     - [5 Debugging Tips Every Developer Should Know](https://www.youtube.com/watch?v=K6WGRBhacq8)
   
